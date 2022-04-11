@@ -10,6 +10,7 @@ use App\Http\Requests\UpdateUserDetailsRequest;
 
 class UserDetailsController extends Controller
 {
+
     /**
      * Display a listing of the resource.
      *
